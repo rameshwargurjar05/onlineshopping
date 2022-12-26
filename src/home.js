@@ -5,6 +5,7 @@ export default function home() {
     <>
         <ul>
             <li>
+              <li>anas</li>
                 
             </li>
                         </ul>
